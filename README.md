@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil. 👋
 
-<!--
-**ArthurN-RDB/ArthurN-RDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Arthur Nogueira Stegues Pereira. 🏳️‍🌈
+- Estou aprendendo a programar com a plataforma Alura. 💻
+- me interessam as linguagens de programaçao: JavaScript e Scratch,
+- Tambem estou aprendendo as linguagens de marcaçâo: HTML e CSS
+- Ultilizo este espaço para alvar meus projetos e compartilhar meus codigós.
 
-Here are some ideas to get you started:
+  ### Meu e-mail para contato é 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  arthur.stegues.pereira@escola.pr.gov.br
+
+  
