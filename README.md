@@ -11,3 +11,4 @@ Meu nome é Arthur Nogueira Stegues Pereira. 🏳️‍🌈
   arthur.stegues.pereira@escola.pr.gov.br
 
   
+![](https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)
